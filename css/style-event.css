@@ -1,0 +1,138 @@
+.name-organizer {
+  font-size: 20px;
+  font-family: 'Open sans', sans-serif;
+  font-weight: 300;
+  margin-left: 60px;
+  color: #77B42A;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #ADE468 !important;
+}
+
+.img {
+  margin-left: 60px;
+  margin-top: 20px;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+
+.event-p {
+  padding: 20px !important;
+  font-size: 22px;
+  color: #B2B2B2;
+  font-family: 'Open sans', sans-serif;
+}
+
+.date {
+  font-family: 'Oswald', sans-serif;
+  color: #575656;
+}
+
+.about-p {
+  padding: 20px 60px;
+  font-size: 22px;
+  color: #B2B2B2;
+  font-family: 'Open sans', sans-serif;
+}
+
+.more-events {
+  color: #375E9E;
+  float: right;
+  position: relative;
+  right: 60px;
+}
+
+.info-us {
+  padding-top: 50px;
+  padding-left: 60px;
+  padding-bottom: 100px;
+  color: #B2B2B2;
+  font-family: 'Open sans', sans-serif;
+  font-weight: 300;
+  line-height: 3
+}
+
+h3 {
+  padding-bottom: 30px;
+  font-family: 'Open sans', sans-serif;
+  font-weight: 300;
+}
+
+.btn {
+  width: 250px;
+  height: 50px;
+  margin-left: 80px;
+  margin-top: 0;
+}
+
+.edit {
+  color: #77B42A;
+  position: relative;
+  bottom: 40px;
+  left: 470px;
+  text-decoration: underline !important;
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 22px;
+}
+
+.event {
+  margin-bottom: 300px;
+}
+
+.form-control {
+  width: 800px !important;
+  margin-left: 60px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.upload {
+  width: 800px;
+  height: 350px;
+  border-style: dashed;
+  border-width: 3px;
+  margin-left: 60px;
+  color: #dadada;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+
+.image {
+  font-size: 250px;
+  opacity: 0.4;
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.upload>input {
+  display: none;
+}
+
+.descr {
+  height: 350px !important;
+}
+
+.confirm {
+  width: 250px;
+  height: 70px;
+  position: relative;
+  float: right;
+  right: 60px;
+  top: 80px;
+}
+
+.form {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+
+
+.about-us {
+  margin-bottom: 300px;
+}
